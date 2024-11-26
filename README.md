@@ -17,7 +17,7 @@ Reach out to me on any of the platforms below – I'm always open to discussing 
   <a href="https://www.instagram.com/mr.ajuu_yadav0307/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Follow on Instagram" />
   </a>
-  <a href="https://wa.me/919999999999" target="_blank" style="text-decoration: none;">
+  <a href="https://wa.me/918830774223" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Chat on WhatsApp" />
   </a>
   <a href="mailto:aj1221yadav@gmail.com" target="_blank" style="text-decoration: none;">
