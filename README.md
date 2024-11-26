@@ -23,6 +23,9 @@ Reach out to me on any of the platforms below – I'm always open to discussing 
   <a href="mailto:aj1221yadav@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send an Email" />
   </a>
+  <a href="https://www.naukri.com/mnjuser/profile/mn_newsmartsearch.php?searchType=personalized&resume=n" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Naukri-00529B?style=for-the-badge&logo=naukri&logoColor=white" title="View Naukri Profile" />
+  </a>
 </p>
 
 ---
